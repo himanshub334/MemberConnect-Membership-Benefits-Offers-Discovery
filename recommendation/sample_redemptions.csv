@@ -1,0 +1,9 @@
+customer_id,offer_id,category
+customer-1,1,Dining
+customer-1,2,Travel
+customer-2,3,Wellness
+customer-3,1,Dining
+customer-3,5,Dining
+customer-4,2,Travel
+customer-4,4,Entertainment
+customer-5,1,Dining
